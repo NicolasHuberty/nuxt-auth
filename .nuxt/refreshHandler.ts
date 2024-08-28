@@ -1,0 +1,2 @@
+import { DefaultRefreshHandler } from 'C:/Users/huber/Documents/ILA/auth-module/runtime/utils/refreshHandler'
+export const _refreshHandler = new DefaultRefreshHandler({"enablePeriodically":false,"enableOnWindowFocus":true})
